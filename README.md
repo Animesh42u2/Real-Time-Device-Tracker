@@ -16,6 +16,8 @@ EJS (Embedded JavaScript templating)
 Helmet (for setting security-related HTTP headers)
 Project Structure
 .
+
+
 ├── public
 │   ├── css
 │   │   └── style.css
@@ -26,6 +28,8 @@ Project Structure
 ├── app.js
 ├── package.json
 └── README.md
+
+
 Installation
 Clone the repository:
 git clone https://github.com/Animesh42u2/Real-Time-Device-Tracker
